@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"mirea.artemtask"},{"l":"mirea.artemtask.Configs"},{"l":"mirea.artemtask.Controllers"},{"l":"mirea.artemtask.Controllers.dto"},{"l":"mirea.artemtask.Entities"},{"l":"mirea.artemtask.Repositories"},{"l":"mirea.artemtask.Services"}];updateSearchResults();

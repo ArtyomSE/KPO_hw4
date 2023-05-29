@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="mirea.artemtask.tests.UserServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-05-23T10:28:42" hostname="EGOR-PC" time="0.549">
+  <properties/>
+  <testcase name="getUsers()" classname="mirea.artemtask.tests.UserServiceTest" time="0.549"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
